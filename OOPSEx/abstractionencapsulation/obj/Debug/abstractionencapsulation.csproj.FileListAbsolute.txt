@@ -1,0 +1,7 @@
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\bin\Debug\abstractionencapsulation.exe.config
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\bin\Debug\abstractionencapsulation.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\bin\Debug\abstractionencapsulation.pdb
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\obj\Debug\abstractionencapsulation.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\obj\Debug\abstractionencapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\obj\Debug\abstractionencapsulation.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\abstractionencapsulation\obj\Debug\abstractionencapsulation.pdb

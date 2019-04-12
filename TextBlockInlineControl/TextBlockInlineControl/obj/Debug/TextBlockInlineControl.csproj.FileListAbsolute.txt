@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\bin\Debug\TextBlockInlineControl.exe.config
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\bin\Debug\TextBlockInlineControl.exe
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\bin\Debug\TextBlockInlineControl.pdb
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.g.resources
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.exe
+C:\Users\Vrunda Thakkar\source\repos\TextBlockInlineControl\TextBlockInlineControl\obj\Debug\TextBlockInlineControl.pdb

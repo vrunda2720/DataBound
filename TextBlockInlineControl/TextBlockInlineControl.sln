@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockInlineControl", "TextBlockInlineControl\TextBlockInlineControl.csproj", "{D387247A-BE46-4789-9523-4EE03BB7933B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D387247A-BE46-4789-9523-4EE03BB7933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D387247A-BE46-4789-9523-4EE03BB7933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D387247A-BE46-4789-9523-4EE03BB7933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D387247A-BE46-4789-9523-4EE03BB7933B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67B6317-DD2B-409D-B1CA-7C38FF3ABD3D}
+	EndGlobalSection
+EndGlobal

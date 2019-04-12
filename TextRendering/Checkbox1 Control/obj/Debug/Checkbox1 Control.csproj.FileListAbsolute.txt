@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\bin\Debug\Checkbox1 Control.exe.config
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\bin\Debug\Checkbox1 Control.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\bin\Debug\Checkbox1 Control.pdb
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.g.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1_Control.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\Checkbox1 Control\obj\Debug\Checkbox1 Control.pdb

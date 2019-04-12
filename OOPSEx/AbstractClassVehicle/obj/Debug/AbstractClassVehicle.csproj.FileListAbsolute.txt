@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\bin\Debug\AbstractClassVehicle.exe.config
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\bin\Debug\AbstractClassVehicle.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\bin\Debug\AbstractClassVehicle.pdb
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.g.resources
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\AbstractClassVehicle\obj\Debug\AbstractClassVehicle.pdb

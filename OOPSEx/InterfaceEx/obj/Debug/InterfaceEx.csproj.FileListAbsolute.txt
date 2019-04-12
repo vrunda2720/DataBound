@@ -1,0 +1,7 @@
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\obj\Debug\InterfaceEx.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\bin\Debug\InterfaceEx.exe.config
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\bin\Debug\InterfaceEx.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\bin\Debug\InterfaceEx.pdb
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\obj\Debug\InterfaceEx.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\obj\Debug\InterfaceEx.pdb
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\InterfaceEx\obj\Debug\InterfaceEx.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\bin\Debug\LoginEx.exe.config
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\bin\Debug\LoginEx.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\bin\Debug\LoginEx.pdb
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.g.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\LoginEx\obj\Debug\LoginEx.pdb

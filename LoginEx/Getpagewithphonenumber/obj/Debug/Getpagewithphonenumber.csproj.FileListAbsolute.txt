@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\bin\Debug\Getpagewithphonenumber.exe.config
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\bin\Debug\Getpagewithphonenumber.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\bin\Debug\Getpagewithphonenumber.pdb
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.g.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\Getpagewithphonenumber\obj\Debug\Getpagewithphonenumber.pdb

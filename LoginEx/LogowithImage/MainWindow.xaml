@@ -1,0 +1,43 @@
+﻿<Window x:Class="LogowithImage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LogowithImage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/LogowithImage;component/Resources/I4.jpg"/>
+        </Grid.Background>
+        <StackPanel >
+            <StackPanel Margin="20" Orientation="Vertical">
+                <Button Name="Yamaha" Height="100" Width="150" HorizontalAlignment="Left" Click="Yamaha_Click">
+                    <Image Height="100" Visibility="Visible" Width="190" HorizontalAlignment="Center" Source="/LogowithImage;component/Resources/Y5.jpg"></Image>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Margin="20" Orientation="Vertical">
+                <Button Name="Honda" Height="100" Width="150" HorizontalAlignment="Left" Click="Honda_Click">
+                    <Image Height="100"  Width="200" HorizontalAlignment="Center" Source="/LogowithImage;component/Resources/H3.jpg"></Image>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Margin="20" Orientation="Vertical" Visibility="Visible">
+                <Button Name="Bajaj" Height="100" Width="150" HorizontalAlignment="Left" Click="Bajaj_Click">
+                    <Image Height="100"  Width="200" HorizontalAlignment="Center" Source="/LogowithImage;component/Resources/B1.jpg"></Image>
+                </Button>
+            </StackPanel>
+
+
+        </StackPanel>
+
+
+        <StackPanel Margin="20" Orientation="Vertical">
+            <Image Name="Image" Height="400" Width="450" Source="/LogowithImage;component/Resources/YB.jpg"  HorizontalAlignment="Right" VerticalAlignment="Center"  ></Image>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

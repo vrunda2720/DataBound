@@ -1,0 +1,38 @@
+﻿<Window x:Class="Practise.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practise"
+        mc:Ignorable="d"
+        Title="ContactForm" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Name:" FontWeight="Bold" />
+        <TextBox Name="txtname"></TextBox>
+
+        <Label Content="Address:" FontWeight="Bold" />
+        <TextBox Name="txtadr"></TextBox>
+
+        <Label Content="Mobile:" FontWeight="Bold" />
+        <TextBox Name="txtPhone" MaxLength="10"></TextBox>
+
+        <Label Content="Birthdate:" FontWeight="Bold" />
+        <TextBox Name="txtDOB" MaxLength="10"></TextBox>
+
+        <Label Content="Gender:"  FontWeight="Bold"/>
+        <RadioButton Name="R1" GroupName="Gender" FontSize="15">Male</RadioButton>
+        <RadioButton Name="R2" GroupName="Gender" FontSize="15">Female</RadioButton>
+        <Label Content="Language:" Height="35" Margin="10,0,666.6,0"  FontWeight="Bold"/>
+        <CheckBox Name="L1" FontSize="15" >Hindi</CheckBox>
+        <CheckBox Name="L2" FontSize="15" >Gujarati</CheckBox>
+        <CheckBox Name="L3" FontSize="15" >English</CheckBox>
+
+        <Button Content="Save" Name="Btn1" Height="30" Width="30" Margin="15 0 500 40" Click="Btn1_Click"></Button>
+        <Button Content="Read" x:Name="Btn2" Height="16" Margin="236,0,445.6,20" Click="Btn2_Click"/>
+
+
+
+
+
+    </StackPanel>
+</Window>

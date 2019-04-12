@@ -1,0 +1,14 @@
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\bin\Debug\TextFormatting.exe.config
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\bin\Debug\TextFormatting.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\bin\Debug\TextFormatting.pdb
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.g.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\TextRendering\obj\Debug\TextFormatting.pdb

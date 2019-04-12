@@ -1,0 +1,32 @@
+﻿<Window x:Class="ContactFormSave.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContactFormSave"
+        mc:Ignorable="d"
+        Title="Contactformsave" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Name:" FontWeight="Bold"/>
+        <TextBox Name="txtname"></TextBox>
+        <Label Content="Address:" FontWeight="Bold"/>
+        <TextBox Name="txtadr" Height="50"></TextBox>
+        <Label Content="Phone:" FontWeight="Bold"/>
+        <TextBox Name="txtphone" MaxLength="10"/>
+        <Label Content="DOB:" FontWeight="Bold"/>
+        <TextBox Name="txtbirth"/>
+        <Label Content="Gender:" FontWeight="Bold"/>
+        <RadioButton Name="r1"  GroupName="gender">Male</RadioButton>
+        <RadioButton Name ="r2" GroupName="gender" IsChecked="True">Female</RadioButton>
+
+        <Label Content="Language:" FontWeight="Bold"/>
+        <CheckBox Name="L1">Hindi</CheckBox>
+        <CheckBox Name="L2">Gujarati</CheckBox>
+        <CheckBox Name="L3">English</CheckBox>
+
+        <Button Height="30" Width="60" Click="Button_Click">Submit</Button>
+        <Button Height="40" Width="50" Click="Button_Click_1">Read</Button>
+
+
+    </StackPanel>
+</Window>

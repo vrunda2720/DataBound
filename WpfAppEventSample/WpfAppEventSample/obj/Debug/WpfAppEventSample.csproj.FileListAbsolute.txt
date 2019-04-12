@@ -1,0 +1,14 @@
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\MainWindow.g.cs
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\App.g.cs
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample_MarkupCompile.cache
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample_MarkupCompile.lref
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\bin\Debug\WpfAppEventSample.exe.config
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\bin\Debug\WpfAppEventSample.exe
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\bin\Debug\WpfAppEventSample.pdb
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\MainWindow.baml
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.g.resources
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.Properties.Resources.resources
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.csproj.GenerateResource.cache
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.csproj.CoreCompileInputs.cache
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.exe
+c:\users\vrunda thakkar\source\repos\WpfAppEventSample\WpfAppEventSample\obj\Debug\WpfAppEventSample.pdb

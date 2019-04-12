@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\bin\Debug\CanvasControl.exe.config
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\bin\Debug\CanvasControl.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\bin\Debug\CanvasControl.pdb
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.g.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.exe
+C:\Users\Vrunda Thakkar\source\repos\TextRendering\CanvasControl\obj\Debug\CanvasControl.pdb

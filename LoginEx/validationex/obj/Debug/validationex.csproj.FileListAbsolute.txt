@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\bin\Debug\validationex.exe.config
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\bin\Debug\validationex.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\bin\Debug\validationex.pdb
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.g.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.exe
+C:\Users\Vrunda Thakkar\source\repos\LoginEx\validationex\obj\Debug\validationex.pdb

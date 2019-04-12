@@ -1,0 +1,15 @@
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\bin\Debug\OOPSEx.exe.config
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\bin\Debug\OOPSEx.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\bin\Debug\OOPSEx.pdb
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.csprojAssemblyReference.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\MainWindow.g.cs
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\App.g.cs
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx_MarkupCompile.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx_MarkupCompile.lref
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\MainWindow.baml
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.g.resources
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.Properties.Resources.resources
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.csproj.GenerateResource.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.csproj.CoreCompileInputs.cache
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.exe
+C:\Users\Vrunda Thakkar\source\repos\OOPSEx\OOPSEx\obj\Debug\OOPSEx.pdb

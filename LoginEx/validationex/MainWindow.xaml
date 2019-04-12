@@ -1,0 +1,43 @@
+﻿<Window x:Class="validationex.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:validationex"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Name:" Name="blockname" FontSize="15" Height="20" Width="70" HorizontalAlignment="Left"></TextBlock>
+                <TextBox Name="boxname" Height="20" Width="100" ></TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Age:" Name="blockage" FontSize="15" Height="20" Width="70" HorizontalAlignment="Left"></TextBlock>
+                <TextBox Name="boxage" Height="20" Width="100" ></TextBox>
+            </StackPanel>
+
+            <StackPanel Name="S3" Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Birthdate:" Name="blockdate" FontSize="15" Height="20" Width="70" HorizontalAlignment="Left"></TextBlock>
+                <DatePicker Name="Picker" HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Nospecialchar:" Name="blockNoSpecial" FontSize="15" Height="20" Width="120" HorizontalAlignment="Left"></TextBlock>
+                <TextBox Name="boxNospecial" Height="20" Width="130" ></TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <TextBlock Text="Onespecialchar:" Name="blockOnespecial" FontSize="15" Height="20" Width="120" HorizontalAlignment="Left"></TextBlock>
+                <TextBox Name="boxonespecial" Height="20" Width="130" ></TextBox>
+            </StackPanel>
+
+            <StackPanel Margin="20">
+                <Button Name="validbtn" Content="Validate" Height="30" Width="100" HorizontalAlignment="Center" Click="Validbtn_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
